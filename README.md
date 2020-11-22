@@ -1,3 +1,3 @@
 # Convolution_networks
 
-CAr detection through convolution networks
+Car detection through convolution networks using YOLO
